@@ -46,3 +46,16 @@ Table 2. Hyperparameters used in the D4RL MuJoCo Gym experiments.
   <img src="eta.png" alt="fig3" width="1000">
 </p>
 <p align="center">Figure 3. Learning curves on the walker2d-medium, walker2d-medium-expert, and walker2d-medium-replay tasks under different window-size settings.</p>
+
+
+
+
+<p align="center">
+  <img src="random_sample.png" alt="fig4" width="1000">
+</p>
+<p align="center">Figure 4. Comparison of SWDG, uniformly random, and pure random on halfcheetah-medium, halfcheetah-medium-replay, walker2d-medium, and walker2d-medium-replay.</p>
+
+<p align="center">
+  <img src="heatmap_all.png" alt="fig5" width="500">
+</p>
+<p align="center">Figure 5. Correlation matrices of ensembles on HalfCheetahmedium and Walker2d-medium tasks for EDAC (top), the SWDG (middle), the uniformly random (bottom).</p>
