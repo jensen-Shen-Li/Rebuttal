@@ -59,3 +59,18 @@ Table 2. Hyperparameters used in the D4RL MuJoCo Gym experiments.
   <img src="heatmap_all.png" alt="fig5" width="500">
 </p>
 <p align="center">Figure 5. Correlation matrices of ensembles on HalfCheetahmedium and Walker2d-medium tasks for EDAC (top), the SWDG (middle), the uniformly random (bottom).</p>
+
+<p align="center">
+  <img src="hmre.png" alt="fig6" width="900">
+</p>
+<p align="center">Figure 6. Comparison of uncertainty-related metrics between EDAC and SWDG on the Halfcheetah-medium-replay task. The figure reports ensemble uncertainty, the actual error of the ensemble mean, and the Pearson correlation between uncertainty and actual error for both ID and OOD samples.</p>
+
+<p align="center">
+  <img src="wa.png" alt="fig7" width="900">
+</p>
+<p align="center">Figure 7. Comparison of uncertainty-related metrics between EDAC and SWDG on the Walker2d-medium task. The figure reports ensemble uncertainty, the actual error of the ensemble mean, and the Pearson correlation between uncertainty and actual error for both ID and OOD samples.</p>
+
+<p align="center">
+  <img src="ware.png" alt="fig8" width="900">
+</p>
+<p align="center">Figure 8. Comparison of uncertainty-related metrics between EDAC and SWDG on the Walker2d-medium-replay task. The figure reports ensemble uncertainty, the actual error of the ensemble mean, and the Pearson correlation between uncertainty and actual error for both ID and OOD samples.</p>
